@@ -1,0 +1,5929 @@
+{
+  "bytes_per_partition": 4096,
+  "operations": [
+    {
+      "partition_id": "p0",
+      "revision": 1,
+      "operation": "upsert",
+      "firmware": "v1",
+      "app": "travel",
+      "start_ms": 0,
+      "end_ms": 10000,
+      "observations": [
+        {
+          "occurred_ms": 0,
+          "latency_ms": 146.061
+        },
+        {
+          "occurred_ms": 70,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 140,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 210,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 280,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 350,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 420,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 490,
+          "latency_ms": 97.675
+        },
+        {
+          "occurred_ms": 560,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 630,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 700,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 770,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 840,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 910,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 980,
+          "latency_ms": 81.16
+        },
+        {
+          "occurred_ms": 1050,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 1120,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 1190,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 1260,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 1330,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 1400,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 1470,
+          "latency_ms": 239.002
+        },
+        {
+          "occurred_ms": 1540,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 1610,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 1680,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 1750,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 1820,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 1890,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 1960,
+          "latency_ms": 261.129
+        },
+        {
+          "occurred_ms": 2030,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 2100,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 2170,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 2240,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 2310,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 2380,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 2450,
+          "latency_ms": 162.488
+        },
+        {
+          "occurred_ms": 2520,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 2590,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 2660,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 2730,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 2800,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 2870,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 2940,
+          "latency_ms": 60.496
+        },
+        {
+          "occurred_ms": 3010,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 3080,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 3150,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 3220,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 3290,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 3360,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 3430,
+          "latency_ms": 154.772
+        },
+        {
+          "occurred_ms": 3500,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 3570,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 3640,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 3710,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 3780,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 3850,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 3920,
+          "latency_ms": 190.602
+        },
+        {
+          "occurred_ms": 3990,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 4060,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 4130,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 4200,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 4270,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 4340,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 4410,
+          "latency_ms": 1884.73
+        },
+        {
+          "occurred_ms": 4480,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 4550,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 4620,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 4690,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 4760,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 4830,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 4900,
+          "latency_ms": 72.741
+        },
+        {
+          "occurred_ms": 4970,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 5040,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 5110,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 5180,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 5250,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 5320,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 5390,
+          "latency_ms": 92.068
+        },
+        {
+          "occurred_ms": 5460,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 5530,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 5600,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 5670,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 5740,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 5810,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 5880,
+          "latency_ms": 69.41
+        },
+        {
+          "occurred_ms": 5950,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 6020,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 6090,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 6160,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 6230,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 6300,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 6370,
+          "latency_ms": 239.939
+        },
+        {
+          "occurred_ms": 6440,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 6510,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 6580,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 6650,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 6720,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 6790,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 6860,
+          "latency_ms": 85.429
+        },
+        {
+          "occurred_ms": 6930,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 7000,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 7070,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 7140,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 7210,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 7280,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 7350,
+          "latency_ms": 97.417
+        },
+        {
+          "occurred_ms": 7420,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 7490,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 7560,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 7630,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 7700,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 7770,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 7840,
+          "latency_ms": 62.03
+        },
+        {
+          "occurred_ms": 7910,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 7980,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 8050,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 8120,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 8190,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 8260,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 8330,
+          "latency_ms": 62.827
+        }
+      ]
+    },
+    {
+      "partition_id": "p1",
+      "revision": 1,
+      "operation": "upsert",
+      "firmware": "v2",
+      "app": "office",
+      "start_ms": 10000,
+      "end_ms": 20000,
+      "observations": [
+        {
+          "occurred_ms": 10000,
+          "latency_ms": 197.208
+        },
+        {
+          "occurred_ms": 10070,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 10140,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 10210,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 10280,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 10350,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 10420,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 10490,
+          "latency_ms": 83.42
+        },
+        {
+          "occurred_ms": 10560,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 10630,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 10700,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 10770,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 10840,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 10910,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 10980,
+          "latency_ms": 109.732
+        },
+        {
+          "occurred_ms": 11050,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 11120,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 11190,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 11260,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 11330,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 11400,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 11470,
+          "latency_ms": 76.272
+        },
+        {
+          "occurred_ms": 11540,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 11610,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 11680,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 11750,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 11820,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 11890,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 11960,
+          "latency_ms": 67.278
+        },
+        {
+          "occurred_ms": 12030,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 12100,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 12170,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 12240,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 12310,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 12380,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 12450,
+          "latency_ms": 64.401
+        },
+        {
+          "occurred_ms": 12520,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 12590,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 12660,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 12730,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 12800,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 12870,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 12940,
+          "latency_ms": 161.021
+        },
+        {
+          "occurred_ms": 13010,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 13080,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 13150,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 13220,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 13290,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 13360,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 13430,
+          "latency_ms": 99.404
+        },
+        {
+          "occurred_ms": 13500,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 13570,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 13640,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 13710,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 13780,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 13850,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 13920,
+          "latency_ms": 100.8
+        },
+        {
+          "occurred_ms": 13990,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 14060,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 14130,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 14200,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 14270,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 14340,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 14410,
+          "latency_ms": 72.823
+        },
+        {
+          "occurred_ms": 14480,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 14550,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 14620,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 14690,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 14760,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 14830,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 14900,
+          "latency_ms": 69.854
+        },
+        {
+          "occurred_ms": 14970,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 15040,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 15110,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 15180,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 15250,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 15320,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 15390,
+          "latency_ms": 67.821
+        },
+        {
+          "occurred_ms": 15460,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 15530,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 15600,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 15670,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 15740,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 15810,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 15880,
+          "latency_ms": 285.796
+        },
+        {
+          "occurred_ms": 15950,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 16020,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 16090,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 16160,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 16230,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 16300,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 16370,
+          "latency_ms": 91.419
+        },
+        {
+          "occurred_ms": 16440,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 16510,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 16580,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 16650,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 16720,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 16790,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 16860,
+          "latency_ms": 490.671
+        },
+        {
+          "occurred_ms": 16930,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 17000,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 17070,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 17140,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 17210,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 17280,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 17350,
+          "latency_ms": 270.383
+        },
+        {
+          "occurred_ms": 17420,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 17490,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 17560,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 17630,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 17700,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 17770,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 17840,
+          "latency_ms": 95.856
+        },
+        {
+          "occurred_ms": 17910,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 17980,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 18050,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 18120,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 18190,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 18260,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 18330,
+          "latency_ms": 234.705
+        }
+      ]
+    },
+    {
+      "partition_id": "p2",
+      "revision": 1,
+      "operation": "upsert",
+      "firmware": "v1",
+      "app": "travel",
+      "start_ms": 20000,
+      "end_ms": 30000,
+      "observations": [
+        {
+          "occurred_ms": 20000,
+          "latency_ms": 84.558
+        },
+        {
+          "occurred_ms": 20070,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 20140,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 20210,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 20280,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 20350,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 20420,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 20490,
+          "latency_ms": 74.777
+        },
+        {
+          "occurred_ms": 20560,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 20630,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 20700,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 20770,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 20840,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 20910,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 20980,
+          "latency_ms": 129.581
+        },
+        {
+          "occurred_ms": 21050,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 21120,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 21190,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 21260,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 21330,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 21400,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 21470,
+          "latency_ms": 90.616
+        },
+        {
+          "occurred_ms": 21540,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 21610,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 21680,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 21750,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 21820,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 21890,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 21960,
+          "latency_ms": 134.962
+        },
+        {
+          "occurred_ms": 22030,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 22100,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 22170,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 22240,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 22310,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 22380,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 22450,
+          "latency_ms": 63.949
+        },
+        {
+          "occurred_ms": 22520,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 22590,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 22660,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 22730,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 22800,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 22870,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 22940,
+          "latency_ms": 128.53
+        },
+        {
+          "occurred_ms": 23010,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 23080,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 23150,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 23220,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 23290,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 23360,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 23430,
+          "latency_ms": 808.514
+        },
+        {
+          "occurred_ms": 23500,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 23570,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 23640,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 23710,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 23780,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 23850,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 23920,
+          "latency_ms": 79.893
+        },
+        {
+          "occurred_ms": 23990,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 24060,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 24130,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 24200,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 24270,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 24340,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 24410,
+          "latency_ms": 210.488
+        },
+        {
+          "occurred_ms": 24480,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 24550,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 24620,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 24690,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 24760,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 24830,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 24900,
+          "latency_ms": 70.268
+        },
+        {
+          "occurred_ms": 24970,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 25040,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 25110,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 25180,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 25250,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 25320,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 25390,
+          "latency_ms": 124.121
+        },
+        {
+          "occurred_ms": 25460,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 25530,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 25600,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 25670,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 25740,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 25810,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 25880,
+          "latency_ms": 196.853
+        },
+        {
+          "occurred_ms": 25950,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 26020,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 26090,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 26160,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 26230,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 26300,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 26370,
+          "latency_ms": 100.239
+        },
+        {
+          "occurred_ms": 26440,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 26510,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 26580,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 26650,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 26720,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 26790,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 26860,
+          "latency_ms": 76.538
+        },
+        {
+          "occurred_ms": 26930,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 27000,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 27070,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 27140,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 27210,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 27280,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 27350,
+          "latency_ms": 300.128
+        },
+        {
+          "occurred_ms": 27420,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 27490,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 27560,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 27630,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 27700,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 27770,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 27840,
+          "latency_ms": 290.676
+        },
+        {
+          "occurred_ms": 27910,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 27980,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 28050,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 28120,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 28190,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 28260,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 28330,
+          "latency_ms": 153.732
+        }
+      ]
+    },
+    {
+      "partition_id": "p3",
+      "revision": 1,
+      "operation": "upsert",
+      "firmware": "v2",
+      "app": "office",
+      "start_ms": 30000,
+      "end_ms": 40000,
+      "observations": [
+        {
+          "occurred_ms": 30000,
+          "latency_ms": 95.909
+        },
+        {
+          "occurred_ms": 30070,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 30140,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 30210,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 30280,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 30350,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 30420,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 30490,
+          "latency_ms": 259.681
+        },
+        {
+          "occurred_ms": 30560,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 30630,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 30700,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 30770,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 30840,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 30910,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 30980,
+          "latency_ms": 149.771
+        },
+        {
+          "occurred_ms": 31050,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 31120,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 31190,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 31260,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 31330,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 31400,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 31470,
+          "latency_ms": 84.825
+        },
+        {
+          "occurred_ms": 31540,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 31610,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 31680,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 31750,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 31820,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 31890,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 31960,
+          "latency_ms": 224.331
+        },
+        {
+          "occurred_ms": 32030,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 32100,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 32170,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 32240,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 32310,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 32380,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 32450,
+          "latency_ms": 104.518
+        },
+        {
+          "occurred_ms": 32520,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 32590,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 32660,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 32730,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 32800,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 32870,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 32940,
+          "latency_ms": 77.704
+        },
+        {
+          "occurred_ms": 33010,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 33080,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 33150,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 33220,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 33290,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 33360,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 33430,
+          "latency_ms": 426.785
+        },
+        {
+          "occurred_ms": 33500,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 33570,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 33640,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 33710,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 33780,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 33850,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 33920,
+          "latency_ms": 263.884
+        },
+        {
+          "occurred_ms": 33990,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 34060,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 34130,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 34200,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 34270,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 34340,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 34410,
+          "latency_ms": 62.423
+        },
+        {
+          "occurred_ms": 34480,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 34550,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 34620,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 34690,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 34760,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 34830,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 34900,
+          "latency_ms": 123.578
+        },
+        {
+          "occurred_ms": 34970,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 35040,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 35110,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 35180,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 35250,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 35320,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 35390,
+          "latency_ms": 407.993
+        },
+        {
+          "occurred_ms": 35460,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 35530,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 35600,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 35670,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 35740,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 35810,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 35880,
+          "latency_ms": 65.499
+        },
+        {
+          "occurred_ms": 35950,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 36020,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 36090,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 36160,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 36230,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 36300,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 36370,
+          "latency_ms": 83.394
+        },
+        {
+          "occurred_ms": 36440,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 36510,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 36580,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 36650,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 36720,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 36790,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 36860,
+          "latency_ms": 87.495
+        },
+        {
+          "occurred_ms": 36930,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 37000,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 37070,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 37140,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 37210,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 37280,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 37350,
+          "latency_ms": 238.38
+        },
+        {
+          "occurred_ms": 37420,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 37490,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 37560,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 37630,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 37700,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 37770,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 37840,
+          "latency_ms": 144.115
+        },
+        {
+          "occurred_ms": 37910,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 37980,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 38050,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 38120,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 38190,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 38260,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 38330,
+          "latency_ms": 106.634
+        }
+      ]
+    },
+    {
+      "partition_id": "p4",
+      "revision": 1,
+      "operation": "upsert",
+      "firmware": "v1",
+      "app": "travel",
+      "start_ms": 40000,
+      "end_ms": 50000,
+      "observations": [
+        {
+          "occurred_ms": 40000,
+          "latency_ms": 102.954
+        },
+        {
+          "occurred_ms": 40070,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 40140,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 40210,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 40280,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 40350,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 40420,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 40490,
+          "latency_ms": 559.211
+        },
+        {
+          "occurred_ms": 40560,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 40630,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 40700,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 40770,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 40840,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 40910,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 40980,
+          "latency_ms": 82.413
+        },
+        {
+          "occurred_ms": 41050,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 41120,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 41190,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 41260,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 41330,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 41400,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 41470,
+          "latency_ms": 78.575
+        },
+        {
+          "occurred_ms": 41540,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 41610,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 41680,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 41750,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 41820,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 41890,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 41960,
+          "latency_ms": 137.433
+        },
+        {
+          "occurred_ms": 42030,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 42100,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 42170,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 42240,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 42310,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 42380,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 42450,
+          "latency_ms": 303.115
+        },
+        {
+          "occurred_ms": 42520,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 42590,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 42660,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 42730,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 42800,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 42870,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 42940,
+          "latency_ms": 88.187
+        },
+        {
+          "occurred_ms": 43010,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 43080,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 43150,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 43220,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 43290,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 43360,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 43430,
+          "latency_ms": 205.2
+        },
+        {
+          "occurred_ms": 43500,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 43570,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 43640,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 43710,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 43780,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 43850,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 43920,
+          "latency_ms": 95.009
+        },
+        {
+          "occurred_ms": 43990,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 44060,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 44130,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 44200,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 44270,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 44340,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 44410,
+          "latency_ms": 170.826
+        },
+        {
+          "occurred_ms": 44480,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 44550,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 44620,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 44690,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 44760,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 44830,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 44900,
+          "latency_ms": 153.946
+        },
+        {
+          "occurred_ms": 44970,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 45040,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 45110,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 45180,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 45250,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 45320,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 45390,
+          "latency_ms": 92.936
+        },
+        {
+          "occurred_ms": 45460,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 45530,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 45600,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 45670,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 45740,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 45810,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 45880,
+          "latency_ms": 126.81
+        },
+        {
+          "occurred_ms": 45950,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 46020,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 46090,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 46160,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 46230,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 46300,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 46370,
+          "latency_ms": 127.068
+        },
+        {
+          "occurred_ms": 46440,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 46510,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 46580,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 46650,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 46720,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 46790,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 46860,
+          "latency_ms": 191.914
+        },
+        {
+          "occurred_ms": 46930,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 47000,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 47070,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 47140,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 47210,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 47280,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 47350,
+          "latency_ms": 73.158
+        },
+        {
+          "occurred_ms": 47420,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 47490,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 47560,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 47630,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 47700,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 47770,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 47840,
+          "latency_ms": 73.09
+        },
+        {
+          "occurred_ms": 47910,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 47980,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 48050,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 48120,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 48190,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 48260,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 48330,
+          "latency_ms": 173.303
+        }
+      ]
+    },
+    {
+      "partition_id": "p5",
+      "revision": 1,
+      "operation": "upsert",
+      "firmware": "v2",
+      "app": "office",
+      "start_ms": 50000,
+      "end_ms": 60000,
+      "observations": [
+        {
+          "occurred_ms": 50000,
+          "latency_ms": 84.301
+        },
+        {
+          "occurred_ms": 50070,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 50140,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 50210,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 50280,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 50350,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 50420,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 50490,
+          "latency_ms": 280.63
+        },
+        {
+          "occurred_ms": 50560,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 50630,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 50700,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 50770,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 50840,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 50910,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 50980,
+          "latency_ms": 72.624
+        },
+        {
+          "occurred_ms": 51050,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 51120,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 51190,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 51260,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 51330,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 51400,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 51470,
+          "latency_ms": 75.444
+        },
+        {
+          "occurred_ms": 51540,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 51610,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 51680,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 51750,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 51820,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 51890,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 51960,
+          "latency_ms": 99.121
+        },
+        {
+          "occurred_ms": 52030,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 52100,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 52170,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 52240,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 52310,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 52380,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 52450,
+          "latency_ms": 79.584
+        },
+        {
+          "occurred_ms": 52520,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 52590,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 52660,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 52730,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 52800,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 52870,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 52940,
+          "latency_ms": 80.049
+        },
+        {
+          "occurred_ms": 53010,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 53080,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 53150,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 53220,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 53290,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 53360,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 53430,
+          "latency_ms": 243.477
+        },
+        {
+          "occurred_ms": 53500,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 53570,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 53640,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 53710,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 53780,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 53850,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 53920,
+          "latency_ms": 70.384
+        },
+        {
+          "occurred_ms": 53990,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 54060,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 54130,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 54200,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 54270,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 54340,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 54410,
+          "latency_ms": 200.839
+        },
+        {
+          "occurred_ms": 54480,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 54550,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 54620,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 54690,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 54760,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 54830,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 54900,
+          "latency_ms": 69.301
+        },
+        {
+          "occurred_ms": 54970,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 55040,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 55110,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 55180,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 55250,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 55320,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 55390,
+          "latency_ms": 103.24
+        },
+        {
+          "occurred_ms": 55460,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 55530,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 55600,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 55670,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 55740,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 55810,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 55880,
+          "latency_ms": 96.637
+        },
+        {
+          "occurred_ms": 55950,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 56020,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 56090,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 56160,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 56230,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 56300,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 56370,
+          "latency_ms": 397.784
+        },
+        {
+          "occurred_ms": 56440,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 56510,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 56580,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 56650,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 56720,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 56790,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 56860,
+          "latency_ms": 413.127
+        },
+        {
+          "occurred_ms": 56930,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 57000,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 57070,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 57140,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 57210,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 57280,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 57350,
+          "latency_ms": 140.378
+        },
+        {
+          "occurred_ms": 57420,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 57490,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 57560,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 57630,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 57700,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 57770,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 57840,
+          "latency_ms": 96.217
+        },
+        {
+          "occurred_ms": 57910,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 57980,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 58050,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 58120,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 58190,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 58260,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 58330,
+          "latency_ms": 105.767
+        }
+      ]
+    },
+    {
+      "partition_id": "p6",
+      "revision": 1,
+      "operation": "upsert",
+      "firmware": "v1",
+      "app": "travel",
+      "start_ms": 60000,
+      "end_ms": 70000,
+      "observations": [
+        {
+          "occurred_ms": 60000,
+          "latency_ms": 97.698
+        },
+        {
+          "occurred_ms": 60070,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 60140,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 60210,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 60280,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 60350,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 60420,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 60490,
+          "latency_ms": 60.604
+        },
+        {
+          "occurred_ms": 60560,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 60630,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 60700,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 60770,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 60840,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 60910,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 60980,
+          "latency_ms": 134.507
+        },
+        {
+          "occurred_ms": 61050,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 61120,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 61190,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 61260,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 61330,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 61400,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 61470,
+          "latency_ms": 68.981
+        },
+        {
+          "occurred_ms": 61540,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 61610,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 61680,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 61750,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 61820,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 61890,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 61960,
+          "latency_ms": 74.351
+        },
+        {
+          "occurred_ms": 62030,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 62100,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 62170,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 62240,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 62310,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 62380,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 62450,
+          "latency_ms": 60.261
+        },
+        {
+          "occurred_ms": 62520,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 62590,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 62660,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 62730,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 62800,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 62870,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 62940,
+          "latency_ms": 61.632
+        },
+        {
+          "occurred_ms": 63010,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 63080,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 63150,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 63220,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 63290,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 63360,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 63430,
+          "latency_ms": 1962.348
+        },
+        {
+          "occurred_ms": 63500,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 63570,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 63640,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 63710,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 63780,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 63850,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 63920,
+          "latency_ms": 63.175
+        },
+        {
+          "occurred_ms": 63990,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 64060,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 64130,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 64200,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 64270,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 64340,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 64410,
+          "latency_ms": 92.614
+        },
+        {
+          "occurred_ms": 64480,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 64550,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 64620,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 64690,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 64760,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 64830,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 64900,
+          "latency_ms": 70.636
+        },
+        {
+          "occurred_ms": 64970,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 65040,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 65110,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 65180,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 65250,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 65320,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 65390,
+          "latency_ms": 227.162
+        },
+        {
+          "occurred_ms": 65460,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 65530,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 65600,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 65670,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 65740,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 65810,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 65880,
+          "latency_ms": 135.036
+        },
+        {
+          "occurred_ms": 65950,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 66020,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 66090,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 66160,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 66230,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 66300,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 66370,
+          "latency_ms": 221.79
+        },
+        {
+          "occurred_ms": 66440,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 66510,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 66580,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 66650,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 66720,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 66790,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 66860,
+          "latency_ms": 76.648
+        },
+        {
+          "occurred_ms": 66930,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 67000,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 67070,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 67140,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 67210,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 67280,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 67350,
+          "latency_ms": 102.22
+        },
+        {
+          "occurred_ms": 67420,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 67490,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 67560,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 67630,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 67700,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 67770,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 67840,
+          "latency_ms": 69.265
+        },
+        {
+          "occurred_ms": 67910,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 67980,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 68050,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 68120,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 68190,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 68260,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 68330,
+          "latency_ms": 193.542
+        }
+      ]
+    },
+    {
+      "partition_id": "p7",
+      "revision": 1,
+      "operation": "upsert",
+      "firmware": "v2",
+      "app": "office",
+      "start_ms": 70000,
+      "end_ms": 80000,
+      "observations": [
+        {
+          "occurred_ms": 70000,
+          "latency_ms": 108.973
+        },
+        {
+          "occurred_ms": 70070,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 70140,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 70210,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 70280,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 70350,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 70420,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 70490,
+          "latency_ms": 148.677
+        },
+        {
+          "occurred_ms": 70560,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 70630,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 70700,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 70770,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 70840,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 70910,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 70980,
+          "latency_ms": 383.122
+        },
+        {
+          "occurred_ms": 71050,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 71120,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 71190,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 71260,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 71330,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 71400,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 71470,
+          "latency_ms": 63.059
+        },
+        {
+          "occurred_ms": 71540,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 71610,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 71680,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 71750,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 71820,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 71890,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 71960,
+          "latency_ms": 108.699
+        },
+        {
+          "occurred_ms": 72030,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 72100,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 72170,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 72240,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 72310,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 72380,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 72450,
+          "latency_ms": 233.435
+        },
+        {
+          "occurred_ms": 72520,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 72590,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 72660,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 72730,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 72800,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 72870,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 72940,
+          "latency_ms": 165.754
+        },
+        {
+          "occurred_ms": 73010,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 73080,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 73150,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 73220,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 73290,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 73360,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 73430,
+          "latency_ms": 132.289
+        },
+        {
+          "occurred_ms": 73500,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 73570,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 73640,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 73710,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 73780,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 73850,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 73920,
+          "latency_ms": 129.087
+        },
+        {
+          "occurred_ms": 73990,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 74060,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 74130,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 74200,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 74270,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 74340,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 74410,
+          "latency_ms": 298.635
+        },
+        {
+          "occurred_ms": 74480,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 74550,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 74620,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 74690,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 74760,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 74830,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 74900,
+          "latency_ms": 65.438
+        },
+        {
+          "occurred_ms": 74970,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 75040,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 75110,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 75180,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 75250,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 75320,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 75390,
+          "latency_ms": 73.61
+        },
+        {
+          "occurred_ms": 75460,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 75530,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 75600,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 75670,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 75740,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 75810,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 75880,
+          "latency_ms": 299.42
+        },
+        {
+          "occurred_ms": 75950,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 76020,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 76090,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 76160,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 76230,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 76300,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 76370,
+          "latency_ms": 147.12
+        },
+        {
+          "occurred_ms": 76440,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 76510,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 76580,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 76650,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 76720,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 76790,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 76860,
+          "latency_ms": 161.274
+        },
+        {
+          "occurred_ms": 76930,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 77000,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 77070,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 77140,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 77210,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 77280,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 77350,
+          "latency_ms": 112.19
+        },
+        {
+          "occurred_ms": 77420,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 77490,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 77560,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 77630,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 77700,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 77770,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 77840,
+          "latency_ms": 60.686
+        },
+        {
+          "occurred_ms": 77910,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 77980,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 78050,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 78120,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 78190,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 78260,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 78330,
+          "latency_ms": 61.931
+        }
+      ]
+    },
+    {
+      "partition_id": "p8",
+      "revision": 1,
+      "operation": "upsert",
+      "firmware": "v1",
+      "app": "travel",
+      "start_ms": 80000,
+      "end_ms": 90000,
+      "observations": [
+        {
+          "occurred_ms": 80000,
+          "latency_ms": 107.339
+        },
+        {
+          "occurred_ms": 80070,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 80140,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 80210,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 80280,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 80350,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 80420,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 80490,
+          "latency_ms": 314.568
+        },
+        {
+          "occurred_ms": 80560,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 80630,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 80700,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 80770,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 80840,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 80910,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 80980,
+          "latency_ms": 69.54
+        },
+        {
+          "occurred_ms": 81050,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 81120,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 81190,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 81260,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 81330,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 81400,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 81470,
+          "latency_ms": 201.846
+        },
+        {
+          "occurred_ms": 81540,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 81610,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 81680,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 81750,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 81820,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 81890,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 81960,
+          "latency_ms": 65.929
+        },
+        {
+          "occurred_ms": 82030,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 82100,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 82170,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 82240,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 82310,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 82380,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 82450,
+          "latency_ms": 148.14
+        },
+        {
+          "occurred_ms": 82520,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 82590,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 82660,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 82730,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 82800,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 82870,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 82940,
+          "latency_ms": 83.411
+        },
+        {
+          "occurred_ms": 83010,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 83080,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 83150,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 83220,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 83290,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 83360,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 83430,
+          "latency_ms": 95.365
+        },
+        {
+          "occurred_ms": 83500,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 83570,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 83640,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 83710,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 83780,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 83850,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 83920,
+          "latency_ms": 73.068
+        },
+        {
+          "occurred_ms": 83990,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 84060,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 84130,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 84200,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 84270,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 84340,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 84410,
+          "latency_ms": 77.423
+        },
+        {
+          "occurred_ms": 84480,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 84550,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 84620,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 84690,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 84760,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 84830,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 84900,
+          "latency_ms": 164.071
+        },
+        {
+          "occurred_ms": 84970,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 85040,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 85110,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 85180,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 85250,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 85320,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 85390,
+          "latency_ms": 166.931
+        },
+        {
+          "occurred_ms": 85460,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 85530,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 85600,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 85670,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 85740,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 85810,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 85880,
+          "latency_ms": 81.09
+        },
+        {
+          "occurred_ms": 85950,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 86020,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 86090,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 86160,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 86230,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 86300,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 86370,
+          "latency_ms": 84.408
+        },
+        {
+          "occurred_ms": 86440,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 86510,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 86580,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 86650,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 86720,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 86790,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 86860,
+          "latency_ms": 125.252
+        },
+        {
+          "occurred_ms": 86930,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 87000,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 87070,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 87140,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 87210,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 87280,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 87350,
+          "latency_ms": 134.144
+        },
+        {
+          "occurred_ms": 87420,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 87490,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 87560,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 87630,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 87700,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 87770,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 87840,
+          "latency_ms": 209.014
+        },
+        {
+          "occurred_ms": 87910,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 87980,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 88050,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 88120,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 88190,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 88260,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 88330,
+          "latency_ms": 60.683
+        }
+      ]
+    },
+    {
+      "partition_id": "p9",
+      "revision": 1,
+      "operation": "upsert",
+      "firmware": "v2",
+      "app": "office",
+      "start_ms": 90000,
+      "end_ms": 100000,
+      "observations": [
+        {
+          "occurred_ms": 90000,
+          "latency_ms": 117.347
+        },
+        {
+          "occurred_ms": 90070,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 90140,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 90210,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 90280,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 90350,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 90420,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 90490,
+          "latency_ms": 61.492
+        },
+        {
+          "occurred_ms": 90560,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 90630,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 90700,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 90770,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 90840,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 90910,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 90980,
+          "latency_ms": 161.813
+        },
+        {
+          "occurred_ms": 91050,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 91120,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 91190,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 91260,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 91330,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 91400,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 91470,
+          "latency_ms": 135.081
+        },
+        {
+          "occurred_ms": 91540,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 91610,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 91680,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 91750,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 91820,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 91890,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 91960,
+          "latency_ms": 278.345
+        },
+        {
+          "occurred_ms": 92030,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 92100,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 92170,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 92240,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 92310,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 92380,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 92450,
+          "latency_ms": 83.668
+        },
+        {
+          "occurred_ms": 92520,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 92590,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 92660,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 92730,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 92800,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 92870,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 92940,
+          "latency_ms": 306.959
+        },
+        {
+          "occurred_ms": 93010,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 93080,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 93150,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 93220,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 93290,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 93360,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 93430,
+          "latency_ms": 86.467
+        },
+        {
+          "occurred_ms": 93500,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 93570,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 93640,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 93710,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 93780,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 93850,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 93920,
+          "latency_ms": 184.536
+        },
+        {
+          "occurred_ms": 93990,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 94060,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 94130,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 94200,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 94270,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 94340,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 94410,
+          "latency_ms": 73.659
+        },
+        {
+          "occurred_ms": 94480,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 94550,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 94620,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 94690,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 94760,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 94830,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 94900,
+          "latency_ms": 70.359
+        },
+        {
+          "occurred_ms": 94970,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 95040,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 95110,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 95180,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 95250,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 95320,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 95390,
+          "latency_ms": 123.553
+        },
+        {
+          "occurred_ms": 95460,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 95530,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 95600,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 95670,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 95740,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 95810,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 95880,
+          "latency_ms": 87.566
+        },
+        {
+          "occurred_ms": 95950,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 96020,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 96090,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 96160,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 96230,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 96300,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 96370,
+          "latency_ms": 60.468
+        },
+        {
+          "occurred_ms": 96440,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 96510,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 96580,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 96650,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 96720,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 96790,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 96860,
+          "latency_ms": 199.338
+        },
+        {
+          "occurred_ms": 96930,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 97000,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 97070,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 97140,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 97210,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 97280,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 97350,
+          "latency_ms": 103.544
+        },
+        {
+          "occurred_ms": 97420,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 97490,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 97560,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 97630,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 97700,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 97770,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 97840,
+          "latency_ms": 79.805
+        },
+        {
+          "occurred_ms": 97910,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 97980,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 98050,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 98120,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 98190,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 98260,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 98330,
+          "latency_ms": 87.88
+        }
+      ]
+    },
+    {
+      "partition_id": "p1",
+      "revision": 2,
+      "operation": "upsert",
+      "firmware": "v2",
+      "app": "office",
+      "start_ms": 10000,
+      "end_ms": 20000,
+      "observations": [
+        {
+          "occurred_ms": 10000,
+          "latency_ms": 8000
+        },
+        {
+          "occurred_ms": 10070,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 10140,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 10210,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 10280,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 10350,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 10420,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 10490,
+          "latency_ms": 83.42
+        },
+        {
+          "occurred_ms": 10560,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 10630,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 10700,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 10770,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 10840,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 10910,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 10980,
+          "latency_ms": 109.732
+        },
+        {
+          "occurred_ms": 11050,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 11120,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 11190,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 11260,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 11330,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 11400,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 11470,
+          "latency_ms": 76.272
+        },
+        {
+          "occurred_ms": 11540,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 11610,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 11680,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 11750,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 11820,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 11890,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 11960,
+          "latency_ms": 67.278
+        },
+        {
+          "occurred_ms": 12030,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 12100,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 12170,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 12240,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 12310,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 12380,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 12450,
+          "latency_ms": 64.401
+        },
+        {
+          "occurred_ms": 12520,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 12590,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 12660,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 12730,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 12800,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 12870,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 12940,
+          "latency_ms": 161.021
+        },
+        {
+          "occurred_ms": 13010,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 13080,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 13150,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 13220,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 13290,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 13360,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 13430,
+          "latency_ms": 99.404
+        },
+        {
+          "occurred_ms": 13500,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 13570,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 13640,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 13710,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 13780,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 13850,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 13920,
+          "latency_ms": 100.8
+        },
+        {
+          "occurred_ms": 13990,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 14060,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 14130,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 14200,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 14270,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 14340,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 14410,
+          "latency_ms": 72.823
+        },
+        {
+          "occurred_ms": 14480,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 14550,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 14620,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 14690,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 14760,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 14830,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 14900,
+          "latency_ms": 69.854
+        },
+        {
+          "occurred_ms": 14970,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 15040,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 15110,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 15180,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 15250,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 15320,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 15390,
+          "latency_ms": 67.821
+        },
+        {
+          "occurred_ms": 15460,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 15530,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 15600,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 15670,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 15740,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 15810,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 15880,
+          "latency_ms": 285.796
+        },
+        {
+          "occurred_ms": 15950,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 16020,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 16090,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 16160,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 16230,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 16300,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 16370,
+          "latency_ms": 91.419
+        },
+        {
+          "occurred_ms": 16440,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 16510,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 16580,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 16650,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 16720,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 16790,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 16860,
+          "latency_ms": 490.671
+        },
+        {
+          "occurred_ms": 16930,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 17000,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 17070,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 17140,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 17210,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 17280,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 17350,
+          "latency_ms": 270.383
+        },
+        {
+          "occurred_ms": 17420,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 17490,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 17560,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 17630,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 17700,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 17770,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 17840,
+          "latency_ms": 95.856
+        },
+        {
+          "occurred_ms": 17910,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 17980,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 18050,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 18120,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 18190,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 18260,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 18330,
+          "latency_ms": 234.705
+        }
+      ]
+    },
+    {
+      "partition_id": "p3",
+      "revision": 2,
+      "operation": "retract"
+    },
+    {
+      "partition_id": "p3",
+      "revision": 1,
+      "operation": "upsert",
+      "firmware": "v2",
+      "app": "office",
+      "start_ms": 30000,
+      "end_ms": 40000,
+      "observations": [
+        {
+          "occurred_ms": 30000,
+          "latency_ms": 95.909
+        },
+        {
+          "occurred_ms": 30070,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 30140,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 30210,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 30280,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 30350,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 30420,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 30490,
+          "latency_ms": 259.681
+        },
+        {
+          "occurred_ms": 30560,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 30630,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 30700,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 30770,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 30840,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 30910,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 30980,
+          "latency_ms": 149.771
+        },
+        {
+          "occurred_ms": 31050,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 31120,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 31190,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 31260,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 31330,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 31400,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 31470,
+          "latency_ms": 84.825
+        },
+        {
+          "occurred_ms": 31540,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 31610,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 31680,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 31750,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 31820,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 31890,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 31960,
+          "latency_ms": 224.331
+        },
+        {
+          "occurred_ms": 32030,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 32100,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 32170,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 32240,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 32310,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 32380,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 32450,
+          "latency_ms": 104.518
+        },
+        {
+          "occurred_ms": 32520,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 32590,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 32660,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 32730,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 32800,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 32870,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 32940,
+          "latency_ms": 77.704
+        },
+        {
+          "occurred_ms": 33010,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 33080,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 33150,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 33220,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 33290,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 33360,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 33430,
+          "latency_ms": 426.785
+        },
+        {
+          "occurred_ms": 33500,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 33570,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 33640,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 33710,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 33780,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 33850,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 33920,
+          "latency_ms": 263.884
+        },
+        {
+          "occurred_ms": 33990,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 34060,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 34130,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 34200,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 34270,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 34340,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 34410,
+          "latency_ms": 62.423
+        },
+        {
+          "occurred_ms": 34480,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 34550,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 34620,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 34690,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 34760,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 34830,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 34900,
+          "latency_ms": 123.578
+        },
+        {
+          "occurred_ms": 34970,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 35040,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 35110,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 35180,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 35250,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 35320,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 35390,
+          "latency_ms": 407.993
+        },
+        {
+          "occurred_ms": 35460,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 35530,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 35600,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 35670,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 35740,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 35810,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 35880,
+          "latency_ms": 65.499
+        },
+        {
+          "occurred_ms": 35950,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 36020,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 36090,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 36160,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 36230,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 36300,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 36370,
+          "latency_ms": 83.394
+        },
+        {
+          "occurred_ms": 36440,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 36510,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 36580,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 36650,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 36720,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 36790,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 36860,
+          "latency_ms": 87.495
+        },
+        {
+          "occurred_ms": 36930,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 37000,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 37070,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 37140,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 37210,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 37280,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 37350,
+          "latency_ms": 238.38
+        },
+        {
+          "occurred_ms": 37420,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 37490,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 37560,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 37630,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 37700,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 37770,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 37840,
+          "latency_ms": 144.115
+        },
+        {
+          "occurred_ms": 37910,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 37980,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 38050,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 38120,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 38190,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 38260,
+          "latency_ms": 40
+        },
+        {
+          "occurred_ms": 38330,
+          "latency_ms": 106.634
+        }
+      ]
+    }
+  ],
+  "queries": [
+    {
+      "query_id": "whole",
+      "start_ms": 0,
+      "end_ms": 100000,
+      "quantiles": [
+        0.95,
+        0.99
+      ],
+      "thresholds": [
+        100,
+        1000
+      ]
+    },
+    {
+      "query_id": "edge",
+      "start_ms": 10500,
+      "end_ms": 30700,
+      "firmware": "v2",
+      "quantiles": [
+        0.95
+      ],
+      "thresholds": [
+        100
+      ]
+    }
+  ]
+}
